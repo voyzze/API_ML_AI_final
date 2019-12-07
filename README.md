@@ -100,7 +100,7 @@
 - [阿里云图像识别产品文档](https://ai.aliyun.com/image?spm=a2c4e.11155472.1280361.261.56c1220a5Qno1r)此页面有说明阿里云产品与服务，它主要的服务是图像打标和场景识别
 - [百度图像识别产品文档](https://ai.baidu.com/tech/imagerecognition)此页面是百度图像识别的产品与服务，它可以识别通用物体、场景、动物、植物、品牌logo、果蔬、菜品以及红酒，而且它识别后返回的结果是百度百科的名称和信息。
 
--[jupyter对比代码文件](https://github.com/voyzze/API_ML_AI_final/blob/master/API_ML_AI_final_compare.ipynb)代码文件展示了百度和阿里云的图像识别api调用情况。百度图像识别返回结果就是名称信息及百科信息，而阿里云返回的结果则是图片注标。
+- [jupyter对比代码文件](https://github.com/voyzze/API_ML_AI_final/blob/master/API_ML_AI_final_compare.ipynb)代码文件展示了百度和阿里云的图像识别api调用情况。百度图像识别返回结果就是名称信息及百科信息，而阿里云返回的结果则是图片注标。
 
 **总结**： 相对于阿里云的图像识别，百度图像识别会更符合此功能想要返回的结果显示，而且百度图像识别物体的范围更广，并且有细分动物植物等专业领域的学科学名，这对于大众来说是一次很好的知识反馈。
 
