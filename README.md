@@ -9,6 +9,8 @@
 | 开发者     | 邱麟茹     |
 | 测试者     | 邱麟茹     |
 
+- [20*20PPT](https://v.youku.com/v_show/id_XNDUwMTQyNzk0NA==.html?spm=a2hzp.8244740.0.0)
+
 ## 一、PRD价值主张设计
 
 ### PRD1.加值宣言
